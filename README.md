@@ -1,9 +1,10 @@
 # Exodus Trading AI
 
-Dies ist ein öffentliches Repository zur Bewertung der Handelsplattform **Exodus Trading AI**.
+📈 Full 2025 Review of the new trading platform powered by AI.
 
-👉 [Hier kannst du die vollständige Bewertung lesen](https://github.com/steoober/Exodus-Trading-AI/blob/main/Exodus_Trading_AI_Review_2025.md)
+👉 [Read full Markdown review](./Exodus_Trading_AI_Review_2025.md)  
+🌐 [View HTML version](https://steoober.github.io/Exodus-Trading-AI/exodus_trading_ai.html)
 
 ---
 
-**SEO-optimiert & zur Indexierung durch Suchmaschinen freigegeben.**
+**Exodus Trading AI** offers a hybrid approach to trading – manual + automated. In our latest review, we explore...
