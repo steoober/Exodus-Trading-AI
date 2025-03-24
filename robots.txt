@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://steoober.github.io/Exodus-Trading-AI/sitemap.xml
